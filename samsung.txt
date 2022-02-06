@@ -1,48 +1,48 @@
 # Blacklist for Samsung QxxQ7F Series (still allowing Netflix)
 
-az43064.vo.msecnd.net
-Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
-d1oxlq5h9kq8q5.cloudfront.net
-d179kwmlpc4o47.cloudfront.net
-d2tnx644ijgq6i.cloudfront.net
-d38cmiae9b0e22.cloudfront.net
-d3mjsomixevyw7.cloudfront.net
-device-metrics-us.amazon.com
-eu-west-1.elb.amazonaws.com
-tivuon.tv
-game.internetat.tv
-goalplay.com
-googleads.g.doubleclick.net
-google-analytics.com
-greenwichmeantime.com
-infolink.pavv.co.kr
-internetat.tv
-ipv4.connman.net
-ipv6.connman.net
-ns11.whois.co.kr
-pavv.co.kr
-prd-adplatform-ad-1309211266.us-west-2.elb.amazonaws.com
-premium-videos.telly.com
-samsung.com
-samsungacr.com
-samsungadhub.com
-samsungads.com
-samsungcloudcdn.com
-samsungcloudsolution.com
-samsungcloudsolution.net
-samsungelectronics.com
-samsungiotcloud.com
-samsungosp.com
-samsungotn.net
-samsungrm.net
-secureclock.playready.microsoft.com
-syncplusconfig.s3.amazonaws.com
-samsungqbe.com
-tv.scdn.co
-us-east-1.elb.amazonaws.com
-worldtime.com
-yahoo.com
-trafficmanager.net
-stsprdservicenl.cloudapp.net
-vd.emp.prd.s3.amazonaws.com
-velb-pew1gld-1366174266.eu-west-1.elb.amazonaws.com
+0.0.0.0 az43064.vo.msecnd.net
+0.0.0.0 Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
+0.0.0.0 d1oxlq5h9kq8q5.cloudfront.net
+0.0.0.0 d179kwmlpc4o47.cloudfront.net
+0.0.0.0 d2tnx644ijgq6i.cloudfront.net
+0.0.0.0 d38cmiae9b0e22.cloudfront.net
+0.0.0.0 d3mjsomixevyw7.cloudfront.net
+0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 eu-west-1.elb.amazonaws.com
+0.0.0.0 tivuon.tv
+0.0.0.0 game.internetat.tv
+0.0.0.0 goalplay.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 google-analytics.com
+0.0.0.0 greenwichmeantime.com
+0.0.0.0 infolink.pavv.co.kr
+0.0.0.0 internetat.tv
+0.0.0.0 ipv4.connman.net
+0.0.0.0 ipv6.connman.net
+0.0.0.0 ns11.whois.co.kr
+0.0.0.0 pavv.co.kr
+0.0.0.0 prd-adplatform-ad-1309211266.us-west-2.elb.amazonaws.com
+0.0.0.0 premium-videos.telly.com
+0.0.0.0 samsung.com
+0.0.0.0 samsungacr.com
+0.0.0.0 samsungadhub.com
+0.0.0.0 samsungads.com
+0.0.0.0 samsungcloudcdn.com
+0.0.0.0 samsungcloudsolution.com
+0.0.0.0 samsungcloudsolution.net
+0.0.0.0 samsungelectronics.com
+0.0.0.0 samsungiotcloud.com
+0.0.0.0 samsungosp.com
+0.0.0.0 samsungotn.net
+0.0.0.0 samsungrm.net
+0.0.0.0 secureclock.playready.microsoft.com
+0.0.0.0 syncplusconfig.s3.amazonaws.com
+0.0.0.0 samsungqbe.com
+0.0.0.0 tv.scdn.co
+0.0.0.0 us-east-1.elb.amazonaws.com
+0.0.0.0 worldtime.com
+0.0.0.0 yahoo.com
+0.0.0.0 trafficmanager.net
+0.0.0.0 stsprdservicenl.cloudapp.net
+0.0.0.0 vd.emp.prd.s3.amazonaws.com
+0.0.0.0 velb-pew1gld-1366174266.eu-west-1.elb.amazonaws.com
